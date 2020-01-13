@@ -1,4 +1,5 @@
 # IE308
-Code for course IE308 at SJTU, mainly about image processing and analysis.  
-Driven mad by all my projects.  
-When I kill some of them, I'll update this rep. :(
+Code for course IE308 at SJTU  
+This is the second homework for the course whose theme is BM3D denoise.  
+The current version is slow but has a clear result.  
+Further improvement is needed.
